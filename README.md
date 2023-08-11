@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm kausthubbh swami</h1>
+<h1 align="center">Hi, I'm kausthubh swami</h1>
 <h3 align="center">"Navigating the Skies of DevOps: Journey into Cloud Computing Excellence"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kitty6xt5&label=Profile%20views&color=0e75b6&style=flat" alt="kitty6xt5" /> </p>
